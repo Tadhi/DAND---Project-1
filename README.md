@@ -17,3 +17,7 @@
 - Open up the CSV.
 - Create a line chart (Moving Averages).
 - Analysis and Conclusion.
+
+# Technologies Used:
+- SQL
+- Microsoft Excel

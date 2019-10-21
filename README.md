@@ -11,13 +11,12 @@
 - Creating a line chart visualization that compares Riyadh city temperatures with the global temperatures.
 - Making observation based on the line chart visualization.
 
-# Technologies Used
-- SQL
-- Microsoft Excel
-
 # Process
 - Data Extraction.
 - Open up the CSV.
 - Create a line chart (Moving Averages).
 - Analysis and Conclusion.
 
+# Technologies Used
+- SQL
+- Microsoft Excel
